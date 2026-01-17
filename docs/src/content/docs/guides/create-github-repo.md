@@ -90,11 +90,11 @@ Go back to your GitHub repository page and refresh it. You should now see all yo
 
 Now that your project is on GitHub, you can:
 
-- 🔥 Collaborate with others by inviting them as collaborators
-- 🔥 Create branches for new features
-- 🔥 Open issues to track bugs and enhancements
-- 🔥 Set up continuous integration/deployment
-- 🔥 Share your project with the world
+- Collaborate with others by inviting them as collaborators
+- Create branches for new features
+- Open issues to track bugs and enhancements
+- Set up continuous integration/deployment
+- Share your project with the world
 
 ## Troubleshooting
 
